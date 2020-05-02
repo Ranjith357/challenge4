@@ -247,7 +247,11 @@ a {
     width: 80%;
     margin: 30px auto;
   }
-
+  
+  .content-1, .content-2, .content-3{
+    width:100%;
+  }
+  
   .build-community {
     width: 80%;
   }
